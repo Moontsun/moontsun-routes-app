@@ -1,0 +1,6 @@
+# moontsun-routes-app# 
+Clona o repositório vazio para seu computador
+git clone https://github.com/seu-usuario/moontsun-routes-app.git
+
+# Entra na pasta
+cd moontsun-routes-app
