@@ -1,0 +1,8 @@
+# Instala o Expo CLI (se ainda não tiver)
+npm install -g expo-cli
+
+# Cria o projeto
+expo init moontsun-routes-app
+
+# Escolha a opção "blank" (em branco)
+cd moontsun-routes-app
